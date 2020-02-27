@@ -1,0 +1,23 @@
+{
+  "name": "sos1920-l04",
+  "version": "1.0.0",
+  "description": "results from l04",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangonrey99/SOS.git"
+  },
+  "author": "dangonrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangonrey99/SOS/issues"
+  },
+  "homepage": "https://github.com/dangonrey99/SOS#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
