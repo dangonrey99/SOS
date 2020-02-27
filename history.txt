@@ -1,0 +1,82 @@
+    1  cd /workspace/sandbox; clear
+    2  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    3  cd /workspace/sandbox; clear
+    4  git clonehttps://github.com/dangonrey99/SOS1920-04-sandbox.https://github.com/dangonrey99/SOS1920-04-sandbox.git
+    5  git clone https://github.com/dangonrey99/SOS1920-04-sandbox.git
+    6  git clone https://github.com/gti-sos/SOS1920.git
+    7  git clone https://github.com/gti-sos/SOS1920-04-sandbox.git
+    8  cd /workspace/sandbox; clear
+    9  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   10  cd /workspace/sandbox; clear
+   11  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   12  cd /workspace/sandbox; clear
+   13  node -v
+   14  ls
+   15  echo "# SOS" >> README.md
+   16  git init
+   17  git add README.md
+   18  git commit -m "first commit"
+   19  git remote add origin https://github.com/dangonrey99/SOS.git
+   20  git push -u origin master
+   21  mkdir SOS1920-labs
+   22  cd sos1920-labs
+   23  ls
+   24  cd SOS1920-labs/
+   25  echo "# SOS" >> README.md
+   26  git init
+   27  git add README.md
+   28  git commit -m "first commit"
+   29  git remote add origin https://github.com/dangonrey99/SOS.git
+   30  git push -u origin master
+   31  echo "# SOS" >> README.md
+   32  ls
+   33  git init
+   34  ls
+   35  ls -la
+   36  history
+   37  history > history.txt
+   38  ls
+   39  rm history.txt 
+   40  ls
+   41  git add README.md
+   42  git commit -m "first commit"
+   43  git config --global user.name Daniel Gonzalez
+   44  git commit -m "first commit"
+   45  cd /workspace/sandbox; clear
+   46  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   47  cd /workspace/sandbox; clear
+   48  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   49  cd /workspace/sandbox; clear
+   50  git config --global user.name "Daniel Gonzalez"
+   51  ls
+   52  cd SOS1920-labs/
+   53  ls
+   54  git remote add origin https://github.com/dangonrey99/SOS.git
+   55  git push -u origin master
+   56  git checkout
+   57  git checkout -b l04
+   58  git add .
+   59  git commit -m "l04"
+   60  git push -u origin l04
+   61  npm -v
+   62  npm init
+   63  ls
+   64  touch index.js
+   65  node index.js 
+   66  ls
+   67  npm start
+   68  npm install cool-ascii-faces --save
+   69  npm start
+   70  ls
+   71  touch .gitignore
+   72  ls
+   73  git add .
+   74  git commit -m "prueba"
+   75  git push
+   76  npm install express --6
+   77  npm install express --save
+   78  npm start
+   79  git add .
+   80  git commit "primer laboratorio"
+   81  history
+   82  history > history.txt
